@@ -1,0 +1,13 @@
+2012-01-06  Dmitry Xmelkov  <dmix@gmail.ru>
+
+	* include/avr/common.h: Fix typo of last commit.
+
+2012-01-05  Dmitry Xmelkov  <dmix@gmail.ru>
+
+	* include/avr/common.h: Define RAMPZ.
+
+2012-01-03  Joerg Wunsch <j.gnu@uriah.heep.sax.de>
+
+	* doc/api/faq.dox (faq_assign_chain): fix spelling of \endcode, so
+	this actually compiles again :/  (bug #35226)
+	* dox/api/Makefile.am: Add forgotten optimize.dox.
